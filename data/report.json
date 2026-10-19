@@ -1,0 +1,11 @@
+{
+  "generated_utc": "2026-10-19T19:32:42+00:00",
+  "scanned_source_entries": 270,
+  "unique_eligible_source_imdb": 162,
+  "added": 133,
+  "updated": 0,
+  "skipped": 137,
+  "catalog_movies": 60,
+  "source": "https://tf.auct.eu/",
+  "note": "Metadata only; entries do not confirm current tracker availability."
+}

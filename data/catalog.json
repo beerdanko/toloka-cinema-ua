@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1242332,
+    "rank": 1,
+    "adult": 0,
+    "title": "Нормал",
+    "imdb_id": "tt31195136",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1358005,
+    "rank": 2,
+    "adult": 0,
+    "title": "Офісний роман",
+    "imdb_id": "tt33397980",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1398050,
+    "rank": 3,
+    "adult": 0,
+    "title": "Супер Драйвер",
+    "imdb_id": "tt9308022",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1560681,
+    "rank": 4,
+    "adult": 0,
+    "title": "Кольори зла: Чорний",
+    "imdb_id": "tt38681832",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 936075,
+    "rank": 5,
+    "adult": 0,
+    "title": "Майкл",
+    "imdb_id": "tt11378946",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1122573,
+    "rank": 6,
+    "adult": 0,
+    "title": "Брудні гроші",
+    "imdb_id": "tt27681354",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 931285,
+    "rank": 7,
+    "adult": 0,
+    "title": "Мортал Комбат ІІ",
+    "imdb_id": "tt17490712",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1278853,
+    "rank": 8,
+    "adult": 0,
+    "title": "Хранителі лісу 2",
+    "imdb_id": "tt35708159",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1430077,
+    "rank": 9,
+    "adult": 0,
+    "title": "Гокум",
+    "imdb_id": "tt35672862",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 898704,
+    "rank": 10,
+    "adult": 0,
+    "title": "Імперія пісків",
+    "imdb_id": "tt13570066",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1390300,
+    "rank": 11,
+    "adult": 0,
+    "title": "Тільки через твій труп",
+    "imdb_id": "tt34685692",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1242265,
+    "rank": 12,
+    "adult": 0,
+    "title": "Пограбування: План \"Лондон\"",
+    "imdb_id": "tt31189814",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1368881,
+    "rank": 13,
+    "adult": 0,
+    "title": "Спочатку дами",
+    "imdb_id": "tt34611082",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1380291,
+    "rank": 14,
+    "adult": 0,
+    "title": "Джек Раян: Війна привидів",
+    "imdb_id": "tt34378301",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1032892,
+    "rank": 15,
+    "adult": 0,
+    "title": "За мить ока",
+    "imdb_id": "tt6341826",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1266127,
+    "rank": 16,
+    "adult": 0,
+    "title": "Гра в хованки: Я йду шукати",
+    "imdb_id": "tt33978029",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1304313,
+    "rank": 17,
+    "adult": 0,
+    "title": "Мумія Лі Кроніна",
+    "imdb_id": "tt32612507",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1455079,
+    "rank": 18,
+    "adult": 0,
+    "title": "Ти, я і Тоскана",
+    "imdb_id": "tt36352591",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1276704,
+    "rank": 19,
+    "adult": 0,
+    "title": "53 неділі",
+    "imdb_id": "tt32155665",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1557981,
+    "rank": 20,
+    "adult": 0,
+    "title": "Коли ти розлучишся?",
+    "imdb_id": "tt38518474",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1439930,
+    "rank": 21,
+    "adult": 0,
+    "title": "Каратель: Останнє вбивство",
+    "imdb_id": "tt36042156",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1325734,
+    "rank": 22,
+    "adult": 0,
+    "title": "Любить не любить",
+    "imdb_id": "tt33071426",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1367642,
+    "rank": 23,
+    "adult": 0,
+    "title": "Спогади про нього",
+    "imdb_id": "tt33714084",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1284460,
+    "rank": 24,
+    "adult": 0,
+    "title": "Альфа",
+    "imdb_id": "tt32275943",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 687163,
+    "rank": 25,
+    "adult": 0,
+    "title": "Проєкт «Аве Марія»",
+    "imdb_id": "tt12042730",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1330021,
+    "rank": 26,
+    "adult": 0,
+    "title": "Напрочуд кмітливі створіння",
+    "imdb_id": "tt33100314",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1527004,
+    "rank": 27,
+    "adult": 0,
+    "title": "Всі відтінки спокуси",
+    "imdb_id": "tt38533212",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 696393,
+    "rank": 28,
+    "adult": 0,
+    "title": "Об'єкт X",
+    "imdb_id": "tt8879928",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1620551,
+    "rank": 29,
+    "adult": 0,
+    "title": "Відчуй мій голос",
+    "imdb_id": "tt38589464",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1459612,
+    "rank": 30,
+    "adult": 0,
+    "title": "Мавка. Справжній міф",
+    "imdb_id": "tt36957240",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1381027,
+    "rank": 31,
+    "adult": 0,
+    "title": "На ланцюгу",
+    "imdb_id": "tt34381258",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1287141,
+    "rank": 32,
+    "adult": 0,
+    "title": "Пілліон",
+    "imdb_id": "tt32321317",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1383731,
+    "rank": 33,
+    "adult": 0,
+    "title": "Захисниця",
+    "imdb_id": "tt34471850",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1317149,
+    "rank": 34,
+    "adult": 0,
+    "title": "Я лаюсь",
+    "imdb_id": "tt31514146",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1318447,
+    "rank": 35,
+    "adult": 0,
+    "title": "Верхівковий хижак",
+    "imdb_id": "tt16431404",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1291335,
+    "rank": 36,
+    "adult": 0,
+    "title": "Холостяк в Італії",
+    "imdb_id": "tt32306991",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1049471,
+    "rank": 37,
+    "adult": 0,
+    "title": "Наслідки",
+    "imdb_id": "tt23724682",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1390382,
+    "rank": 38,
+    "adult": 0,
+    "title": "Кутюр",
+    "imdb_id": "tt34688195",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1401281,
+    "rank": 39,
+    "adult": 0,
+    "title": "Заповіт Енн Лі",
+    "imdb_id": "tt34819091",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1272837,
+    "rank": 40,
+    "adult": 0,
+    "title": "28 років по тому: Храм кісток",
+    "imdb_id": "tt32141377",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1315303,
+    "rank": 41,
+    "adult": 0,
+    "title": "Примат",
+    "imdb_id": "tt33028778",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1159831,
+    "rank": 42,
+    "adult": 0,
+    "title": "Наречена!",
+    "imdb_id": "tt30851137",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1119449,
+    "rank": 43,
+    "adult": 0,
+    "title": "Удачі, веселися, не вмирай",
+    "imdb_id": "tt1341338",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1290821,
+    "rank": 44,
+    "adult": 0,
+    "title": "Самітник",
+    "imdb_id": "tt32357218",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1236153,
+    "rank": 45,
+    "adult": 0,
+    "title": "Милосердя",
+    "imdb_id": "tt31050594",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1107166,
+    "rank": 46,
+    "adult": 0,
+    "title": "Вбивця-психопат",
+    "imdb_id": "tt1764551",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1290417,
+    "rank": 47,
+    "adult": 0,
+    "title": "Лютий напад",
+    "imdb_id": "tt32362890",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1641319,
+    "rank": 48,
+    "adult": 0,
+    "title": "Снайпер: Без нації",
+    "imdb_id": "tt39538786",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1159559,
+    "rank": 49,
+    "adult": 0,
+    "title": "Крик 7",
+    "imdb_id": "tt27047903",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1561758,
+    "rank": 50,
+    "adult": 0,
+    "title": "Біда людей єдна",
+    "imdb_id": "tt38681815",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 467905,
+    "rank": 51,
+    "adult": 0,
+    "title": "Мисливець за спадком",
+    "imdb_id": "tt4357198",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1635276,
+    "rank": 52,
+    "adult": 0,
+    "title": "Їсти, молитися, гавкати",
+    "imdb_id": "tt39465484",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1171145,
+    "rank": 53,
+    "adult": 0,
+    "title": "Шлях до злочину",
+    "imdb_id": "tt32430579",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1316092,
+    "rank": 54,
+    "adult": 0,
+    "title": "«Буремний перевал»",
+    "imdb_id": "tt32897959",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1088434,
+    "rank": 55,
+    "adult": 0,
+    "title": "Пекельний вогонь",
+    "imdb_id": "tt14507394",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1198994,
+    "rank": 56,
+    "adult": 0,
+    "title": "Допоможіть",
+    "imdb_id": "tt8036976",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 875828,
+    "rank": 57,
+    "adult": 0,
+    "title": "Гострі картузи: Безсмертний",
+    "imdb_id": "tt15574124",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 840464,
+    "rank": 58,
+    "adult": 0,
+    "title": "Гренландія 2: Міграція",
+    "imdb_id": "tt14850054",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 680493,
+    "rank": 59,
+    "adult": 0,
+    "title": "Сайлент Гілл. Повернення",
+    "imdb_id": "tt22868010",
+    "mediatype": "movie",
+    "release_year": 2026
+  },
+  {
+    "id": 1428862,
+    "rank": 60,
+    "adult": 0,
+    "title": "Проти полумʼя",
+    "imdb_id": "tt33474179",
+    "mediatype": "movie",
+    "release_year": 2026
+  }
+]

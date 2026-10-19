@@ -1,0 +1,2177 @@
+{
+  "movies": {
+    "tt31195136": {
+      "imdb_id": "tt31195136",
+      "tmdb_id": 1242332,
+      "title": "Normal",
+      "title_uk": "Нормал",
+      "year": 2026,
+      "thread_ids": [
+        697487
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 3
+    },
+    "tt33397980": {
+      "imdb_id": "tt33397980",
+      "tmdb_id": 1358005,
+      "title": "Office Romance",
+      "title_uk": "Офісний роман",
+      "year": 2026,
+      "thread_ids": [
+        697744,
+        697745,
+        697746
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 13
+    },
+    "tt9308022": {
+      "imdb_id": "tt9308022",
+      "tmdb_id": 1398050,
+      "title": "Driver's Ed",
+      "title_uk": "Супер Драйвер",
+      "year": 2026,
+      "thread_ids": [
+        697669
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 14
+    },
+    "tt38681832": {
+      "imdb_id": "tt38681832",
+      "tmdb_id": 1560681,
+      "title": "Kolory zla: Czern",
+      "title_uk": "Кольори зла: Чорний",
+      "year": 2026,
+      "thread_ids": [
+        697642,
+        697643,
+        697644,
+        697645,
+        697775
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 15
+    },
+    "tt11378946": {
+      "imdb_id": "tt11378946",
+      "tmdb_id": 936075,
+      "title": "Michael",
+      "title_uk": "Майкл",
+      "year": 2026,
+      "thread_ids": [
+        697611,
+        697612,
+        697613,
+        697615,
+        697616,
+        697647
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 17
+    },
+    "tt27681354": {
+      "imdb_id": "tt27681354",
+      "tmdb_id": 1122573,
+      "title": "In the Grey",
+      "title_uk": "Брудні гроші",
+      "year": 2026,
+      "thread_ids": [
+        697341,
+        697513,
+        697514
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 19
+    },
+    "tt17490712": {
+      "imdb_id": "tt17490712",
+      "tmdb_id": 931285,
+      "title": "Mortal Kombat II",
+      "title_uk": "Мортал Комбат ІІ",
+      "year": 2026,
+      "thread_ids": [
+        696969,
+        697499,
+        697500,
+        697509,
+        697770,
+        697772,
+        697774
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 21
+    },
+    "tt35708159": {
+      "imdb_id": "tt35708159",
+      "tmdb_id": 1278853,
+      "title": "Woodwalkers 2",
+      "title_uk": "Хранителі лісу 2",
+      "year": 2026,
+      "thread_ids": [
+        697459
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 22
+    },
+    "tt35672862": {
+      "imdb_id": "tt35672862",
+      "tmdb_id": 1430077,
+      "title": "Hokum",
+      "title_uk": "Гокум",
+      "year": 2026,
+      "thread_ids": [
+        697333,
+        697395,
+        697396,
+        697400
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 24
+    },
+    "tt13570066": {
+      "imdb_id": "tt13570066",
+      "tmdb_id": 898704,
+      "title": "Desert Warrior",
+      "title_uk": "Імперія пісків",
+      "year": 2026,
+      "thread_ids": [
+        697220,
+        697221
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 26
+    },
+    "tt34685692": {
+      "imdb_id": "tt34685692",
+      "tmdb_id": 1390300,
+      "title": "Over Your Dead Body",
+      "title_uk": "Тільки через твій труп",
+      "year": 2026,
+      "thread_ids": [
+        697230,
+        697232,
+        697233,
+        697234
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 27
+    },
+    "tt31189814": {
+      "imdb_id": "tt31189814",
+      "tmdb_id": 1242265,
+      "title": "Fuze",
+      "title_uk": "Пограбування: План \"Лондон\"",
+      "year": 2026,
+      "thread_ids": [
+        697217,
+        697218
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 29
+    },
+    "tt34611082": {
+      "imdb_id": "tt34611082",
+      "tmdb_id": 1368881,
+      "title": "Ladies First",
+      "title_uk": "Спочатку дами",
+      "year": 2026,
+      "thread_ids": [
+        697014,
+        697015,
+        697016,
+        697017,
+        697057
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 34
+    },
+    "tt34378301": {
+      "imdb_id": "tt34378301",
+      "tmdb_id": 1380291,
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "title_uk": "Джек Раян: Війна привидів",
+      "year": 2026,
+      "thread_ids": [
+        696970,
+        696972,
+        696973,
+        696974
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 36
+    },
+    "tt6341826": {
+      "imdb_id": "tt6341826",
+      "tmdb_id": 1032892,
+      "title": "In the Blink of an Eye",
+      "title_uk": "За мить ока",
+      "year": 2026,
+      "thread_ids": [
+        696940,
+        696942,
+        696943
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 37
+    },
+    "tt33978029": {
+      "imdb_id": "tt33978029",
+      "tmdb_id": 1266127,
+      "title": "Ready or Not 2: Here I Come",
+      "title_uk": "Гра в хованки: Я йду шукати",
+      "year": 2026,
+      "thread_ids": [
+        696889,
+        696890,
+        696892,
+        697539,
+        697540,
+        697574
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 38
+    },
+    "tt32612507": {
+      "imdb_id": "tt32612507",
+      "tmdb_id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "title_uk": "Мумія Лі Кроніна",
+      "year": 2026,
+      "thread_ids": [
+        696878,
+        696879,
+        696885
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 39
+    },
+    "tt36352591": {
+      "imdb_id": "tt36352591",
+      "tmdb_id": 1455079,
+      "title": "You, Me & Tuscany",
+      "title_uk": "Ти, я і Тоскана",
+      "year": 2026,
+      "thread_ids": [
+        696865
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 40
+    },
+    "tt32155665": {
+      "imdb_id": "tt32155665",
+      "tmdb_id": 1276704,
+      "title": "53 Sundays",
+      "title_uk": "53 неділі",
+      "year": 2026,
+      "thread_ids": [
+        696839,
+        696841,
+        696845
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 41
+    },
+    "tt38518474": {
+      "imdb_id": "tt38518474",
+      "tmdb_id": 1557981,
+      "title": "When will you get divorced?",
+      "title_uk": "Коли ти розлучишся?",
+      "year": 2026,
+      "thread_ids": [
+        696833
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 42
+    },
+    "tt36042156": {
+      "imdb_id": "tt36042156",
+      "tmdb_id": 1439930,
+      "title": "The Punisher: One Last Kill",
+      "title_uk": "Каратель: Останнє вбивство",
+      "year": 2026,
+      "thread_ids": [
+        696766,
+        696797,
+        696798,
+        696799,
+        696826
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 45
+    },
+    "tt33071426": {
+      "imdb_id": "tt33071426",
+      "tmdb_id": 1325734,
+      "title": "The Drama",
+      "title_uk": "Любить не любить",
+      "year": 2026,
+      "thread_ids": [
+        696666,
+        696669,
+        696670,
+        696731,
+        696740
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 46
+    },
+    "tt33714084": {
+      "imdb_id": "tt33714084",
+      "tmdb_id": 1367642,
+      "title": "Reminders of Him",
+      "title_uk": "Спогади про нього",
+      "year": 2026,
+      "thread_ids": [
+        696704,
+        696705,
+        696706,
+        696830,
+        696886
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 47
+    },
+    "tt32275943": {
+      "imdb_id": "tt32275943",
+      "tmdb_id": 1284460,
+      "title": "Alpha",
+      "title_uk": "Альфа",
+      "year": 2026,
+      "thread_ids": [
+        696690,
+        696703
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 48
+    },
+    "tt12042730": {
+      "imdb_id": "tt12042730",
+      "tmdb_id": 687163,
+      "title": "Project Hail Mary",
+      "title_uk": "Проєкт «Аве Марія»",
+      "year": 2026,
+      "thread_ids": [
+        696665,
+        696672,
+        696673,
+        696696,
+        696765
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 49
+    },
+    "tt33100314": {
+      "imdb_id": "tt33100314",
+      "tmdb_id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "title_uk": "Напрочуд кмітливі створіння",
+      "year": 2026,
+      "thread_ids": [
+        696660,
+        696661,
+        696662,
+        696663
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 50
+    },
+    "tt38533212": {
+      "imdb_id": "tt38533212",
+      "tmdb_id": 1527004,
+      "title": "Vsi vidtinky spokusy",
+      "title_uk": "Всі відтінки спокуси",
+      "year": 2026,
+      "thread_ids": [
+        696593,
+        696594
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 51
+    },
+    "tt8879928": {
+      "imdb_id": "tt8879928",
+      "tmdb_id": 696393,
+      "title": "Cold Storage",
+      "title_uk": "Об'єкт X",
+      "year": 2026,
+      "thread_ids": [
+        696508,
+        696509,
+        696520,
+        696525,
+        696627,
+        696935
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 53
+    },
+    "tt38589464": {
+      "imdb_id": "tt38589464",
+      "tmdb_id": 1620551,
+      "title": "Feel My Voice",
+      "title_uk": "Відчуй мій голос",
+      "year": 2026,
+      "thread_ids": [
+        696557,
+        696558,
+        696559
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 54
+    },
+    "tt36957240": {
+      "imdb_id": "tt36957240",
+      "tmdb_id": 1459612,
+      "title": "Mavka. The True Myth",
+      "title_uk": "Мавка. Справжній міф",
+      "year": 2026,
+      "thread_ids": [
+        696410,
+        696411
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 61
+    },
+    "tt34381258": {
+      "imdb_id": "tt34381258",
+      "tmdb_id": 1381027,
+      "title": "Heel",
+      "title_uk": "На ланцюгу",
+      "year": 2026,
+      "thread_ids": [
+        696315
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 62
+    },
+    "tt32321317": {
+      "imdb_id": "tt32321317",
+      "tmdb_id": 1287141,
+      "title": "Pillion",
+      "title_uk": "Пілліон",
+      "year": 2026,
+      "thread_ids": [
+        696266,
+        696267,
+        696268
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 64
+    },
+    "tt34471850": {
+      "imdb_id": "tt34471850",
+      "tmdb_id": 1383731,
+      "title": "Protector",
+      "title_uk": "Захисниця",
+      "year": 2026,
+      "thread_ids": [
+        696254
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 65
+    },
+    "tt31514146": {
+      "imdb_id": "tt31514146",
+      "tmdb_id": 1317149,
+      "title": "I Swear",
+      "title_uk": "Я лаюсь",
+      "year": 2026,
+      "thread_ids": [
+        696230
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 66
+    },
+    "tt16431404": {
+      "imdb_id": "tt16431404",
+      "tmdb_id": 1318447,
+      "title": "Apex",
+      "title_uk": "Верхівковий хижак",
+      "year": 2026,
+      "thread_ids": [
+        696213,
+        696214,
+        696354,
+        696355
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 67
+    },
+    "tt32306991": {
+      "imdb_id": "tt32306991",
+      "tmdb_id": 1291335,
+      "title": "Solo Mio",
+      "title_uk": "Холостяк в Італії",
+      "year": 2026,
+      "thread_ids": [
+        696141,
+        696142,
+        696146,
+        697416,
+        697467
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 69
+    },
+    "tt23724682": {
+      "imdb_id": "tt23724682",
+      "tmdb_id": 1049471,
+      "title": "Outcome",
+      "title_uk": "Наслідки",
+      "year": 2026,
+      "thread_ids": [
+        696125
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 70
+    },
+    "tt34688195": {
+      "imdb_id": "tt34688195",
+      "tmdb_id": 1390382,
+      "title": "Couture",
+      "title_uk": "Кутюр",
+      "year": 2026,
+      "thread_ids": [
+        696116
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 71
+    },
+    "tt34819091": {
+      "imdb_id": "tt34819091",
+      "tmdb_id": 1401281,
+      "title": "The Testament of Ann Lee",
+      "title_uk": "Заповіт Енн Лі",
+      "year": 2026,
+      "thread_ids": [
+        696110
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 72
+    },
+    "tt32141377": {
+      "imdb_id": "tt32141377",
+      "tmdb_id": 1272837,
+      "title": "28 Years Later: The Bone Temple",
+      "title_uk": "28 років по тому: Храм кісток",
+      "year": 2026,
+      "thread_ids": [
+        696085,
+        696086,
+        696087,
+        696155
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 73
+    },
+    "tt33028778": {
+      "imdb_id": "tt33028778",
+      "tmdb_id": 1315303,
+      "title": "Primate",
+      "title_uk": "Примат",
+      "year": 2026,
+      "thread_ids": [
+        696063,
+        696210
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 74
+    },
+    "tt30851137": {
+      "imdb_id": "tt30851137",
+      "tmdb_id": 1159831,
+      "title": "The Bride!",
+      "title_uk": "Наречена!",
+      "year": 2026,
+      "thread_ids": [
+        696046,
+        696051,
+        696052,
+        696708,
+        696709,
+        696743,
+        696789,
+        696971
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 76
+    },
+    "tt1341338": {
+      "imdb_id": "tt1341338",
+      "tmdb_id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "title_uk": "Удачі, веселися, не вмирай",
+      "year": 2026,
+      "thread_ids": [
+        696045,
+        696227,
+        696228
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 77
+    },
+    "tt32357218": {
+      "imdb_id": "tt32357218",
+      "tmdb_id": 1290821,
+      "title": "Shelter",
+      "title_uk": "Самітник",
+      "year": 2026,
+      "thread_ids": [
+        695999,
+        696000,
+        696468
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 81
+    },
+    "tt31050594": {
+      "imdb_id": "tt31050594",
+      "tmdb_id": 1236153,
+      "title": "Mercy",
+      "title_uk": "Милосердя",
+      "year": 2026,
+      "thread_ids": [
+        695979,
+        695980,
+        695991,
+        695992,
+        695993,
+        695997,
+        696131
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 83
+    },
+    "tt1764551": {
+      "imdb_id": "tt1764551",
+      "tmdb_id": 1107166,
+      "title": "Psycho Killer",
+      "title_uk": "Вбивця-психопат",
+      "year": 2026,
+      "thread_ids": [
+        695825
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 86
+    },
+    "tt32362890": {
+      "imdb_id": "tt32362890",
+      "tmdb_id": 1290417,
+      "title": "Thrash",
+      "title_uk": "Лютий напад",
+      "year": 2026,
+      "thread_ids": [
+        695775,
+        695777
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 87
+    },
+    "tt39538786": {
+      "imdb_id": "tt39538786",
+      "tmdb_id": 1641319,
+      "title": "Sniper: No Nation",
+      "title_uk": "Снайпер: Без нації",
+      "year": 2026,
+      "thread_ids": [
+        695766,
+        695767
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 89
+    },
+    "tt27047903": {
+      "imdb_id": "tt27047903",
+      "tmdb_id": 1159559,
+      "title": "Scream 7",
+      "title_uk": "Крик 7",
+      "year": 2026,
+      "thread_ids": [
+        697413,
+        697415,
+        697589
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 92
+    },
+    "tt38681815": {
+      "imdb_id": "tt38681815",
+      "tmdb_id": 1561758,
+      "title": "It Takes a Village",
+      "title_uk": "Біда людей єдна",
+      "year": 2026,
+      "thread_ids": [
+        695500
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 93
+    },
+    "tt4357198": {
+      "imdb_id": "tt4357198",
+      "tmdb_id": 467905,
+      "title": "How to Make a Killing",
+      "title_uk": "Мисливець за спадком",
+      "year": 2026,
+      "thread_ids": [
+        695476,
+        695477,
+        695489,
+        697409
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 94
+    },
+    "tt39465484": {
+      "imdb_id": "tt39465484",
+      "tmdb_id": 1635276,
+      "title": "Eat Pray Bark",
+      "title_uk": "Їсти, молитися, гавкати",
+      "year": 2026,
+      "thread_ids": [
+        695474
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 95
+    },
+    "tt32430579": {
+      "imdb_id": "tt32430579",
+      "tmdb_id": 1171145,
+      "title": "Crime 101",
+      "title_uk": "Шлях до злочину",
+      "year": 2026,
+      "thread_ids": [
+        695471
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 96
+    },
+    "tt32897959": {
+      "imdb_id": "tt32897959",
+      "tmdb_id": 1316092,
+      "title": "Wuthering Heights",
+      "title_uk": "«Буремний перевал»",
+      "year": 2026,
+      "thread_ids": [
+        695419,
+        695420,
+        695425,
+        696253,
+        696585,
+        696586,
+        696680
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 97
+    },
+    "tt14507394": {
+      "imdb_id": "tt14507394",
+      "tmdb_id": 1088434,
+      "title": "Hellfire",
+      "title_uk": "Пекельний вогонь",
+      "year": 2026,
+      "thread_ids": [
+        695339,
+        695340
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 99
+    },
+    "tt8036976": {
+      "imdb_id": "tt8036976",
+      "tmdb_id": 1198994,
+      "title": "Send Help",
+      "title_uk": "Допоможіть",
+      "year": 2026,
+      "thread_ids": [
+        695228,
+        695229,
+        695230,
+        695897
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 100
+    },
+    "tt15574124": {
+      "imdb_id": "tt15574124",
+      "tmdb_id": 875828,
+      "title": "Peaky Blinders: The Immortal Man",
+      "title_uk": "Гострі картузи: Безсмертний",
+      "year": 2026,
+      "thread_ids": [
+        695104,
+        695108,
+        695109,
+        695110
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 101
+    },
+    "tt14850054": {
+      "imdb_id": "tt14850054",
+      "tmdb_id": 840464,
+      "title": "Greenland 2: Migration",
+      "title_uk": "Гренландія 2: Міграція",
+      "year": 2026,
+      "thread_ids": [
+        694695,
+        695322,
+        695323,
+        695324,
+        695545
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 107
+    },
+    "tt22868010": {
+      "imdb_id": "tt22868010",
+      "tmdb_id": 680493,
+      "title": "Return to Silent Hill",
+      "title_uk": "Сайлент Гілл. Повернення",
+      "year": 2026,
+      "thread_ids": [
+        694487
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 109
+    },
+    "tt33474179": {
+      "imdb_id": "tt33474179",
+      "tmdb_id": 1428862,
+      "title": "Firebreak",
+      "title_uk": "Проти полумʼя",
+      "year": 2026,
+      "thread_ids": [
+        694481
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 111
+    },
+    "tt33249097": {
+      "imdb_id": "tt33249097",
+      "tmdb_id": 1339210,
+      "title": "Affection",
+      "title_uk": "Прив’язаність",
+      "year": 2025,
+      "thread_ids": [
+        697709
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 114
+    },
+    "tt31777964": {
+      "imdb_id": "tt31777964",
+      "tmdb_id": 1259983,
+      "title": "Guru",
+      "title_uk": "Гуру",
+      "year": 2025,
+      "thread_ids": [
+        697419,
+        697501,
+        697614,
+        697729
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 118
+    },
+    "tt31189315": {
+      "imdb_id": "tt31189315",
+      "tmdb_id": 1159206,
+      "title": "Father Mother Sister Brother",
+      "title_uk": "Батько, мати, сестра, брат",
+      "year": 2025,
+      "thread_ids": [
+        697072
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 121
+    },
+    "tt34610311": {
+      "imdb_id": "tt34610311",
+      "tmdb_id": 1419406,
+      "title": "The Shadow's Edge",
+      "title_uk": "Полювання на тінь",
+      "year": 2025,
+      "thread_ids": [
+        696991
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 122
+    },
+    "tt34886821": {
+      "imdb_id": "tt34886821",
+      "tmdb_id": 1397364,
+      "title": "Grace",
+      "title_uk": "Благодать",
+      "year": 2025,
+      "thread_ids": [
+        696821,
+        696822
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 124
+    },
+    "tt27773954": {
+      "imdb_id": "tt27773954",
+      "tmdb_id": 1127628,
+      "title": "The Thing with Feathers",
+      "title_uk": "Чорне пір’я",
+      "year": 2025,
+      "thread_ids": [
+        696483,
+        696484,
+        696485,
+        696628
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 129
+    },
+    "tt11092020": {
+      "imdb_id": "tt11092020",
+      "tmdb_id": 757725,
+      "title": "Shadow Force",
+      "title_uk": "Тіньовий загін",
+      "year": 2025,
+      "thread_ids": [
+        696457,
+        696464,
+        696465
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 130
+    },
+    "tt31425731": {
+      "imdb_id": "tt31425731",
+      "tmdb_id": 1248226,
+      "title": "Playdate",
+      "title_uk": "Грайлива зустріч",
+      "year": 2025,
+      "thread_ids": [
+        696409
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 131
+    },
+    "tt14142060": {
+      "imdb_id": "tt14142060",
+      "tmdb_id": 1208348,
+      "title": "Rental Family",
+      "title_uk": "Сім'я напрокат",
+      "year": 2025,
+      "thread_ids": [
+        696323
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 132
+    },
+    "tt23172090": {
+      "imdb_id": "tt23172090",
+      "tmdb_id": 1043197,
+      "title": "Dust Bunny",
+      "title_uk": "Монстр під ліжком",
+      "year": 2025,
+      "thread_ids": [
+        696237
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 133
+    },
+    "tt28083456": {
+      "imdb_id": "tt28083456",
+      "tmdb_id": 1140498,
+      "title": "Is This Thing On?",
+      "title_uk": "Ця річ працює?",
+      "year": 2025,
+      "thread_ids": [
+        696147,
+        696243
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 134
+    },
+    "tt28026215": {
+      "imdb_id": "tt28026215",
+      "tmdb_id": 1181540,
+      "title": "Guns Up",
+      "title_uk": "Стволи догори",
+      "year": 2025,
+      "thread_ids": [
+        696222,
+        696223
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 135
+    },
+    "tt35222590": {
+      "imdb_id": "tt35222590",
+      "tmdb_id": 1408208,
+      "title": "Exit 8",
+      "title_uk": "Вихід 8",
+      "year": 2025,
+      "thread_ids": [
+        696159
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 136
+    },
+    "tt27847051": {
+      "imdb_id": "tt27847051",
+      "tmdb_id": 1220564,
+      "title": "The Secret Agent",
+      "title_uk": "Таємний агент",
+      "year": 2025,
+      "thread_ids": [
+        696109,
+        696111,
+        696710,
+        696711
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 137
+    },
+    "tt29780866": {
+      "imdb_id": "tt29780866",
+      "tmdb_id": 1242501,
+      "title": "Icefall",
+      "title_uk": "Крижаний драйв",
+      "year": 2025,
+      "thread_ids": [
+        696044,
+        696048
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 144
+    },
+    "tt14905854": {
+      "imdb_id": "tt14905854",
+      "tmdb_id": 858024,
+      "title": "Hamnet",
+      "title_uk": "Гамнет",
+      "year": 2025,
+      "thread_ids": [
+        695987
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 146
+    },
+    "tt32793488": {
+      "imdb_id": "tt32793488",
+      "tmdb_id": 1219548,
+      "title": "The Physician II",
+      "title_uk": "Лікар 2: Спадок Авіценни",
+      "year": 2025,
+      "thread_ids": [
+        695904
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 149
+    },
+    "tt32843349": {
+      "imdb_id": "tt32843349",
+      "tmdb_id": 1205515,
+      "title": "Sorry, Baby",
+      "title_uk": "Пробач, дівчинко",
+      "year": 2025,
+      "thread_ids": [
+        695778
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 150
+    },
+    "tt33088452": {
+      "imdb_id": "tt33088452",
+      "tmdb_id": 1327862,
+      "title": "Regretting You",
+      "title_uk": "Шкодуючи за тобою",
+      "year": 2025,
+      "thread_ids": [
+        695772,
+        695850
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 151
+    },
+    "tt1757678": {
+      "imdb_id": "tt1757678",
+      "tmdb_id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "title_uk": "Аватар: Вогонь і Попіл",
+      "year": 2025,
+      "thread_ids": [
+        695498,
+        695499,
+        695502,
+        695503,
+        695566,
+        695567,
+        696893,
+        696894,
+        696895,
+        697022,
+        697035,
+        697135,
+        697646
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 152
+    },
+    "tt33295741": {
+      "imdb_id": "tt33295741",
+      "tmdb_id": 1340110,
+      "title": "Redux Redux",
+      "title_uk": "Знову, і знову",
+      "year": 2025,
+      "thread_ids": [
+        695355
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 154
+    },
+    "tt4627382": {
+      "imdb_id": "tt4627382",
+      "tmdb_id": 1242419,
+      "title": "Roofman",
+      "title_uk": "Грабіжник за покликанням",
+      "year": 2025,
+      "thread_ids": [
+        695336,
+        695337,
+        695424,
+        695546
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 155
+    },
+    "tt30343021": {
+      "imdb_id": "tt30343021",
+      "tmdb_id": 1371185,
+      "title": "Song Sung Blue",
+      "title_uk": "Пісня любові",
+      "year": 2025,
+      "thread_ids": [
+        695225
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 157
+    },
+    "tt36456563": {
+      "imdb_id": "tt36456563",
+      "tmdb_id": 975335,
+      "title": "Magalhaes",
+      "title_uk": "Магеллан",
+      "year": 2025,
+      "thread_ids": [
+        695111
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 159
+    },
+    "tt38608937": {
+      "imdb_id": "tt38608937",
+      "tmdb_id": 1559572,
+      "title": "One Shot with Ed Sheeran",
+      "title_uk": "ОДИН КАДР з Едом Шираном",
+      "year": 2025,
+      "thread_ids": [
+        694817
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 160
+    },
+    "tt27543632": {
+      "imdb_id": "tt27543632",
+      "tmdb_id": 1368166,
+      "title": "The Housemaid",
+      "title_uk": "Служниця",
+      "year": 2025,
+      "thread_ids": [
+        694089,
+        694091,
+        694092,
+        694095
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 165
+    },
+    "tt33504443": {
+      "imdb_id": "tt33504443",
+      "tmdb_id": 1495712,
+      "title": "Montana Mavericks",
+      "title_uk": "Монтана Маверікс",
+      "year": 2025,
+      "thread_ids": [
+        694094
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 166
+    },
+    "tt37602474": {
+      "imdb_id": "tt37602474",
+      "tmdb_id": 1520850,
+      "title": "Sophia's Suspicion",
+      "title_uk": "Підозри Софії",
+      "year": 2025,
+      "thread_ids": [
+        694084
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 168
+    },
+    "tt31227572": {
+      "imdb_id": "tt31227572",
+      "tmdb_id": 1242898,
+      "title": "Predator: Badlands",
+      "title_uk": "Хижак: Дикі землі",
+      "year": 2025,
+      "thread_ids": [
+        693433,
+        693434,
+        693435,
+        693436
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 170
+    },
+    "tt13650700": {
+      "imdb_id": "tt13650700",
+      "tmdb_id": 1241921,
+      "title": "A Big Bold Beautiful Journey",
+      "title_uk": "Велика смілива красива подорож",
+      "year": 2025,
+      "thread_ids": [
+        692999,
+        693002
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 171
+    },
+    "tt30144839": {
+      "imdb_id": "tt30144839",
+      "tmdb_id": 1054867,
+      "title": "One Battle After Another",
+      "title_uk": "Одна битва за іншою",
+      "year": 2025,
+      "thread_ids": [
+        692996
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 173
+    },
+    "tt29644189": {
+      "imdb_id": "tt29644189",
+      "tmdb_id": 1197137,
+      "title": "Black Phone 2",
+      "title_uk": "Чорний телефон 2",
+      "year": 2025,
+      "thread_ids": [
+        692994
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 174
+    },
+    "tt29927663": {
+      "imdb_id": "tt29927663",
+      "tmdb_id": 982843,
+      "title": "The Great Flood",
+      "title_uk": "Всесвітній потоп",
+      "year": 2025,
+      "thread_ids": [
+        692993
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 175
+    },
+    "tt32323252": {
+      "imdb_id": "tt32323252",
+      "tmdb_id": 1287322,
+      "title": "Christy",
+      "title_uk": "Королева рингу",
+      "year": 2025,
+      "thread_ids": [
+        692992,
+        696356,
+        696357,
+        696358
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 176
+    },
+    "tt12300742": {
+      "imdb_id": "tt12300742",
+      "tmdb_id": 701387,
+      "title": "Bugonia",
+      "title_uk": "Буґонія",
+      "year": 2025,
+      "thread_ids": [
+        692638
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 180
+    },
+    "tt20990442": {
+      "imdb_id": "tt20990442",
+      "tmdb_id": 986097,
+      "title": "Him",
+      "title_uk": "Легенда",
+      "year": 2025,
+      "thread_ids": [
+        692137,
+        692182
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 182
+    },
+    "tt1312221": {
+      "imdb_id": "tt1312221",
+      "tmdb_id": 1062722,
+      "title": "Frankenstein",
+      "title_uk": "Франкенштайн",
+      "year": 2025,
+      "thread_ids": [
+        691896,
+        691897,
+        691912,
+        691913,
+        691925
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 186
+    },
+    "tt32376165": {
+      "imdb_id": "tt32376165",
+      "tmdb_id": 1290159,
+      "title": "A House of Dynamite",
+      "title_uk": "Будинок з динаміту",
+      "year": 2025,
+      "thread_ids": [
+        691578,
+        691579,
+        691580
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 187
+    },
+    "tt1210027": {
+      "imdb_id": "tt1210027",
+      "tmdb_id": 507244,
+      "title": "Afterburn",
+      "title_uk": "Останнє пограбування",
+      "year": 2025,
+      "thread_ids": [
+        691532
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 188
+    },
+    "tt32129665": {
+      "imdb_id": "tt32129665",
+      "tmdb_id": 1275151,
+      "title": "She Walks in Darkness",
+      "title_uk": "Вона в пітьмі йде",
+      "year": 2025,
+      "thread_ids": [
+        691363,
+        691381
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 191
+    },
+    "tt36265413": {
+      "imdb_id": "tt36265413",
+      "tmdb_id": 1072699,
+      "title": "Furioza Again",
+      "title_uk": "Знову лють",
+      "year": 2025,
+      "thread_ids": [
+        691347
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 192
+    },
+    "tt1493274": {
+      "imdb_id": "tt1493274",
+      "tmdb_id": 1245993,
+      "title": "Caught Stealing",
+      "title_uk": "Спіймати на гарячому",
+      "year": 2025,
+      "thread_ids": [
+        691218,
+        691219,
+        691220,
+        691272
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 195
+    },
+    "tt7130300": {
+      "imdb_id": "tt7130300",
+      "tmdb_id": 1290879,
+      "title": "The Woman in Cabin 10",
+      "title_uk": "Жінка з каюти № 10",
+      "year": 2025,
+      "thread_ids": [
+        691210,
+        691211,
+        691212,
+        691217
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 197
+    },
+    "tt21103218": {
+      "imdb_id": "tt21103218",
+      "tmdb_id": 1236470,
+      "title": "The Lost Bus",
+      "title_uk": "Автобус у вогні",
+      "year": 2025,
+      "thread_ids": [
+        691259
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 202
+    },
+    "tt31434030": {
+      "imdb_id": "tt31434030",
+      "tmdb_id": 1246049,
+      "title": "Dracula: A Love Tale",
+      "title_uk": "Граф Дракула: Історія кохання",
+      "year": 2025,
+      "thread_ids": [
+        691139,
+        692998
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 203
+    },
+    "tt22898462": {
+      "imdb_id": "tt22898462",
+      "tmdb_id": 1038392,
+      "title": "The Conjuring: Last Rites",
+      "title_uk": "Закляття 4: Останній обряд",
+      "year": 2025,
+      "thread_ids": [
+        691067,
+        691313,
+        691314,
+        691315
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 207
+    },
+    "tt31956415": {
+      "imdb_id": "tt31956415",
+      "tmdb_id": 1125257,
+      "title": "Freakier Friday",
+      "title_uk": "Ще одна шалена п'ятниця",
+      "year": 2025,
+      "thread_ids": [
+        691063,
+        691064,
+        691074,
+        691075,
+        691905
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 208
+    },
+    "tt18392014": {
+      "imdb_id": "tt18392014",
+      "tmdb_id": 941109,
+      "title": "Play Dirty",
+      "title_uk": "Брудна гра",
+      "year": 2025,
+      "thread_ids": [
+        691054
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 210
+    },
+    "tt30645201": {
+      "imdb_id": "tt30645201",
+      "tmdb_id": 1149504,
+      "title": "Honey Don't!",
+      "title_uk": "Гані, не треба!",
+      "year": 2025,
+      "thread_ids": [
+        690960,
+        691110,
+        695996
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 211
+    },
+    "tt32985279": {
+      "imdb_id": "tt32985279",
+      "tmdb_id": 1242404,
+      "title": "Steve",
+      "title_uk": "Стів",
+      "year": 2025,
+      "thread_ids": [
+        690954,
+        690955,
+        690956
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 213
+    },
+    "tt10676052": {
+      "imdb_id": "tt10676052",
+      "tmdb_id": 617126,
+      "title": "The Fantastic Four: First Steps",
+      "title_uk": "Фантастична 4: Перші кроки",
+      "year": 2025,
+      "thread_ids": [
+        690561,
+        690568,
+        690569,
+        690570,
+        690571,
+        690594,
+        690617,
+        690651,
+        690652,
+        690690,
+        691010,
+        691011,
+        691012,
+        691277
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 226
+    },
+    "tt33549478": {
+      "imdb_id": "tt33549478",
+      "tmdb_id": 1312946,
+      "title": "The Map That Leads to You",
+      "title_uk": "Карта, яка веде до тебе",
+      "year": 2025,
+      "thread_ids": [
+        690507
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 229
+    },
+    "tt31176520": {
+      "imdb_id": "tt31176520",
+      "tmdb_id": 648878,
+      "title": "Eddington",
+      "title_uk": "Еддінгтон",
+      "year": 2025,
+      "thread_ids": [
+        690377,
+        690378,
+        690379,
+        690408,
+        691326,
+        691412,
+        691413
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 232
+    },
+    "tt3402138": {
+      "imdb_id": "tt3402138",
+      "tmdb_id": 1035259,
+      "title": "The Naked Gun",
+      "title_uk": "Голий пістолет",
+      "year": 2025,
+      "thread_ids": [
+        690164,
+        690169,
+        690296,
+        690297,
+        690298,
+        690326
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 235
+    },
+    "tt31184028": {
+      "imdb_id": "tt31184028",
+      "tmdb_id": 1242011,
+      "title": "Together",
+      "title_uk": "Одне ціле",
+      "year": 2025,
+      "thread_ids": [
+        690096,
+        690097,
+        690098
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 236
+    },
+    "tt28996126": {
+      "imdb_id": "tt28996126",
+      "tmdb_id": 1007734,
+      "title": "Nobody 2",
+      "title_uk": "Ніхто 2",
+      "year": 2025,
+      "thread_ids": [
+        690064,
+        690065,
+        690076,
+        690559,
+        690590,
+        690595,
+        690657,
+        690837,
+        690838,
+        690839,
+        691037
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 237
+    },
+    "tt31194612": {
+      "imdb_id": "tt31194612",
+      "tmdb_id": 1242434,
+      "title": "Highest 2 Lowest",
+      "title_uk": "З раю в пекло",
+      "year": 2025,
+      "thread_ids": [
+        690286,
+        690287,
+        690288
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 238
+    },
+    "tt33712667": {
+      "imdb_id": "tt33712667",
+      "tmdb_id": 1367575,
+      "title": "A Line of Fire",
+      "title_uk": "Лінія вогню",
+      "year": 2025,
+      "thread_ids": [
+        689982,
+        689983
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 241
+    },
+    "tt27986457": {
+      "imdb_id": "tt27986457",
+      "tmdb_id": 1196573,
+      "title": "She Rides Shotgun",
+      "title_uk": "Втікачі",
+      "year": 2025,
+      "thread_ids": [
+        694482,
+        696395,
+        696396
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 242
+    },
+    "tt4045450": {
+      "imdb_id": "tt4045450",
+      "tmdb_id": 1083433,
+      "title": "I Know What You Did Last Summer",
+      "title_uk": "Я знаю, що ви скоїли минулого літа",
+      "year": 2025,
+      "thread_ids": [
+        689962,
+        689963,
+        689964,
+        690327,
+        690576,
+        690577,
+        691204
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 243
+    },
+    "tt34621892": {
+      "imdb_id": "tt34621892",
+      "tmdb_id": 1312157,
+      "title": "Madly",
+      "title_uk": "Правила флірту",
+      "year": 2025,
+      "thread_ids": [
+        689911,
+        689917
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 244
+    },
+    "tt12001534": {
+      "imdb_id": "tt12001534",
+      "tmdb_id": 744653,
+      "title": "The Thursday Murder Club",
+      "title_uk": "Клуб убивств по четвергах",
+      "year": 2025,
+      "thread_ids": [
+        689862,
+        689867,
+        689875,
+        689895
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 246
+    },
+    "tt0800175": {
+      "imdb_id": "tt0800175",
+      "tmdb_id": 13494,
+      "title": "Red Sonja",
+      "title_uk": "Руда Соня",
+      "year": 2025,
+      "thread_ids": [
+        689842
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 247
+    },
+    "tt15514498": {
+      "imdb_id": "tt15514498",
+      "tmdb_id": 1151334,
+      "title": "Eenie Meanie",
+      "title_uk": "Іні Міні",
+      "year": 2025,
+      "thread_ids": [
+        690007,
+        691280
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 248
+    },
+    "tt16311594": {
+      "imdb_id": "tt16311594",
+      "tmdb_id": 911430,
+      "title": "F1: The Movie",
+      "title_uk": "F1: Фільм",
+      "year": 2025,
+      "thread_ids": [
+        689755,
+        689797,
+        689799,
+        690170,
+        690688,
+        690778,
+        690782,
+        690788,
+        690789,
+        690859
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 249
+    },
+    "tt19403516": {
+      "imdb_id": "tt19403516",
+      "tmdb_id": 1205656,
+      "title": "Hallow Road",
+      "title_uk": "Дорога Галлоу",
+      "year": 2025,
+      "thread_ids": [
+        689726
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 250
+    },
+    "tt31974129": {
+      "imdb_id": "tt31974129",
+      "tmdb_id": 1315986,
+      "title": "Man with No Past",
+      "title_uk": "Людина без минулого",
+      "year": 2025,
+      "thread_ids": [
+        689729,
+        691283
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 252
+    },
+    "tt26581740": {
+      "imdb_id": "tt26581740",
+      "tmdb_id": 1078605,
+      "title": "Weapons",
+      "title_uk": "Зброя",
+      "year": 2025,
+      "thread_ids": [
+        689725,
+        690179,
+        690182,
+        690183,
+        690184,
+        690187,
+        691193,
+        691194,
+        691197,
+        691225
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 255
+    },
+    "tt9603208": {
+      "imdb_id": "tt9603208",
+      "tmdb_id": 575265,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "title_uk": "Місія неможлива: Фінальна розплата",
+      "year": 2025,
+      "thread_ids": [
+        689641,
+        689650,
+        689651,
+        689685,
+        689750,
+        691189,
+        691195,
+        691196
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 256
+    },
+    "tt31567422": {
+      "imdb_id": "tt31567422",
+      "tmdb_id": 1254624,
+      "title": "Night Always Comes",
+      "title_uk": "Ніч завжди настає",
+      "year": 2025,
+      "thread_ids": [
+        689581
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 259
+    },
+    "tt30445556": {
+      "imdb_id": "tt30445556",
+      "tmdb_id": 1106289,
+      "title": "The Pickup",
+      "title_uk": "Пограбування",
+      "year": 2025,
+      "thread_ids": [
+        689521
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 262
+    },
+    "tt31036941": {
+      "imdb_id": "tt31036941",
+      "tmdb_id": 1234821,
+      "title": "Jurassic World: Rebirth",
+      "title_uk": "Світ Юрського періоду: Відродження",
+      "year": 2025,
+      "thread_ids": [
+        689436,
+        689449,
+        689450,
+        689961,
+        689984,
+        689997,
+        690061
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 267
+    },
+    "tt21317634": {
+      "imdb_id": "tt21317634",
+      "tmdb_id": 1124619,
+      "title": "Bride Hard",
+      "title_uk": "Шпигунка на весіллі",
+      "year": 2025,
+      "thread_ids": [
+        689374,
+        689382
+      ],
+      "first_seen": "2026-10-19T19:32:42+00:00",
+      "last_update": "2026-10-19T19:32:42+00:00",
+      "initial_order": 269
+    }
+  },
+  "tmdb_cache": {
+    "tt31195136": 1242332,
+    "tt34809853": null,
+    "tt39837101": null,
+    "tt33397980": 1358005,
+    "tt9308022": 1398050,
+    "tt38681832": 1560681,
+    "tt32767294": null,
+    "tt11378946": 936075,
+    "tt27681354": 1122573,
+    "tt17490712": 931285,
+    "tt35708159": 1278853,
+    "tt35672862": 1430077,
+    "tt27557289": null,
+    "tt13570066": 898704,
+    "tt34685692": 1390300,
+    "tt31137273": null,
+    "tt31189814": 1242265,
+    "tt33546863": null,
+    "tt34611082": 1368881,
+    "tt36363511": null,
+    "tt34378301": 1380291,
+    "tt6341826": 1032892,
+    "tt33978029": 1266127,
+    "tt32612507": 1304313,
+    "tt36352591": 1455079,
+    "tt32155665": 1276704,
+    "tt38518474": 1557981,
+    "tt36022742": null,
+    "tt36042156": 1439930,
+    "tt33071426": 1325734,
+    "tt33714084": 1367642,
+    "tt32275943": 1284460,
+    "tt12042730": 687163,
+    "tt33100314": 1330021,
+    "tt38533212": 1527004,
+    "tt33265765": null,
+    "tt8879928": 696393,
+    "tt38589464": 1620551,
+    "tt35466672": null,
+    "tt27331527": null,
+    "tt36957240": 1459612,
+    "tt34381258": 1381027,
+    "tt32321317": 1287141,
+    "tt34471850": 1383731,
+    "tt31514146": 1317149,
+    "tt16431404": 1318447,
+    "tt32306991": 1291335,
+    "tt23724682": 1049471,
+    "tt34688195": 1390382,
+    "tt34819091": 1401281,
+    "tt32141377": 1272837,
+    "tt33028778": 1315303,
+    "tt30851137": 1159831,
+    "tt1341338": 1119449,
+    "tt10970762": null,
+    "tt32357218": 1290821,
+    "tt39374202": null,
+    "tt31050594": 1236153,
+    "tt1764551": 1107166,
+    "tt32362890": 1290417,
+    "tt39538786": 1641319,
+    "tt32420734": null,
+    "tt27613895": null,
+    "tt27047903": 1159559,
+    "tt38681815": 1561758,
+    "tt4357198": 467905,
+    "tt39465484": 1635276,
+    "tt32430579": 1171145,
+    "tt32897959": 1316092,
+    "tt32937780": null,
+    "tt14507394": 1088434,
+    "tt8036976": 1198994,
+    "tt15574124": 875828,
+    "tt8622160": null,
+    "tt14850054": 840464,
+    "tt22868010": 680493,
+    "tt33474179": 1428862,
+    "tt33249097": 1339210,
+    "tt36912546": null,
+    "tt31777964": 1259983,
+    "tt31189315": 1159206,
+    "tt34610311": 1419406,
+    "tt34886821": 1397364,
+    "tt27773954": 1127628,
+    "tt11092020": 757725,
+    "tt31425731": 1248226,
+    "tt14142060": 1208348,
+    "tt23172090": 1043197,
+    "tt28083456": 1140498,
+    "tt28026215": 1181540,
+    "tt35222590": 1408208,
+    "tt27847051": 1220564,
+    "tt29780866": 1242501,
+    "tt35677100": null,
+    "tt14905854": 858024,
+    "tt32793488": 1219548,
+    "tt32843349": 1205515,
+    "tt33088452": 1327862,
+    "tt1757678": 83533,
+    "tt33295741": 1340110,
+    "tt4627382": 1242419,
+    "tt30343021": 1371185,
+    "tt33045989": null,
+    "tt36456563": 975335,
+    "tt38608937": 1559572,
+    "tt35663349": null,
+    "tt27543632": 1368166,
+    "tt33504443": 1495712,
+    "tt37602474": 1520850,
+    "tt31227572": 1242898,
+    "tt13650700": 1241921,
+    "tt30144839": 1054867,
+    "tt29644189": 1197137,
+    "tt29927663": 982843,
+    "tt32323252": 1287322,
+    "tt12300742": 701387,
+    "tt20990442": 986097,
+    "tt22202452": null,
+    "tt1312221": 1062722,
+    "tt32376165": 1290159,
+    "tt1210027": 507244,
+    "tt32129665": 1275151,
+    "tt36265413": 1072699,
+    "tt27987047": null,
+    "tt1493274": 1245993,
+    "tt7130300": 1290879,
+    "tt21103218": 1236470,
+    "tt31434030": 1246049,
+    "tt26576161": null,
+    "tt22898462": 1038392,
+    "tt31956415": 1125257,
+    "tt18392014": 941109,
+    "tt30645201": 1149504,
+    "tt32985279": 1242404,
+    "tt13185754": null,
+    "tt10676052": 617126,
+    "tt33549478": 1312946,
+    "tt23055142": null,
+    "tt31176520": 648878,
+    "tt29768339": null,
+    "tt3402138": 1035259,
+    "tt31184028": 1242011,
+    "tt28996126": 1007734,
+    "tt31194612": 1242434,
+    "tt33712667": 1367575,
+    "tt27986457": 1196573,
+    "tt4045450": 1083433,
+    "tt34621892": 1312157,
+    "tt12001534": 744653,
+    "tt0800175": 13494,
+    "tt15514498": 1151334,
+    "tt16311594": 911430,
+    "tt19403516": 1205656,
+    "tt13623632": null,
+    "tt31974129": 1315986,
+    "tt26581740": 1078605,
+    "tt9603208": 575265,
+    "tt31567422": 1254624,
+    "tt30445556": 1106289,
+    "tt34512704": null,
+    "tt31036941": 1234821,
+    "tt21317634": 1124619
+  }
+}
