@@ -1,0 +1,18 @@
+{
+  "total": 4,
+  "data": [
+    {"imdb_id": 1, "title": "Test drama", "title_uk": "Тестова драма", "year": 2018, "runtime": 121, "genres": [{"name": "драма"}], "threads": [
+      {"id": 1001, "title": "Тестова драма / Test drama (2018) WEB-DL 1080p Ukr/Eng — HD українською"},
+      {"id": 1002, "title": "Тестова драма (2018) WEB-DL 4K 2160p SDR Ukr/Eng — HD українською"}
+    ]},
+    {"imdb_id": 2, "title": "Test thriller", "title_uk": "Тестовий трилер", "year": 2025, "runtime": 100, "genres": [{"name": "трилер"}], "threads": [
+      {"id": 1003, "title": "Test thriller (2025) 1080p 2xUkr/Eng — HD українською"}
+    ]},
+    {"imdb_id": 3, "title": "Test animation", "year": 2025, "runtime": 95, "genres": [{"name": "анімація"}], "threads": [
+      {"id": 1004, "title": "Test animation (2025) 1080p Ukr/Eng — HD українською"}
+    ]},
+    {"imdb_id": 1, "title": "Test drama", "title_uk": "Тестова драма", "year": 2018, "runtime": 121, "genres": [{"name": "драма"}], "threads": [
+      {"id": 1001, "title": "Тестова драма (2018) WEB-DL 1080p Ukr/Eng — HD українською"}
+    ]}
+  ]
+}
