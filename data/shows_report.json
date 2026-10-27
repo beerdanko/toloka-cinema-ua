@@ -1,0 +1,14 @@
+{
+  "generated_utc": "2026-10-27T07:21:51+00:00",
+  "scanned_source_entries": 1500,
+  "plausible_unique_imdb": 48,
+  "new": 46,
+  "updated": 0,
+  "not_tv": 2,
+  "catalog_series": 43,
+  "unresolved_details": 0,
+  "source": "https://tf.auct.eu/",
+  "minimum_imdb_rating": 7.5,
+  "minimum_imdb_votes": 20000,
+  "note": "An episode appearing in the catalog does not guarantee active sources or seeders."
+}
