@@ -1,0 +1,32 @@
+name: Update Toloka Series UA
+on:
+  workflow_dispatch:
+  schedule:
+    # Sundays 09:17 UTC
+    - cron: '17 9 * * 0'
+permissions:
+  contents: write
+concurrency:
+  group: toloka-series-catalog
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p 'test_shows.py' -v
+      - name: Generate series catalog
+        env:
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+        run: python build_shows.py --pages 100 --max-items 60 --min-rating 7.5 --min-votes 20000
+      - name: Commit catalog files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/shows.json data/shows_state.json data/shows_report.json
+          git diff --staged --quiet || { git commit -m 'Update Ukrainian TV series catalog'; git push; }
